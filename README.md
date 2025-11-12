@@ -31,5 +31,5 @@ It helps users in Taiwan and Asia manage budgets, track spending, and build savi
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/LINE-Mate.git
+git clone https://github.com/Audrey/LINE-Mate.git
 cd LINE-Mate
